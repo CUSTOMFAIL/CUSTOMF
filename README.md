@@ -16,6 +16,7 @@
 <a href = "mailto:vaibhavshresth13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/vaibhavshresth13" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="vaibhavshresth13" height="30" width="40" /></a>
 <a href="https://instagram.com/vaibhavshresth13" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="vaibhavshresth13" height="30" width="40" /></a></p>
 
 <h3 align="left">Stars</h3>
