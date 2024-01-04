@@ -17,7 +17,7 @@
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/vaibhavshresth13" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="vaibhavshresth13" height="30" width="40" /></a>
-<a href="https://instagram.com/vaibhavshresth13" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="vaibhavshresth13" height="30" width="40" /></a></p>
+<a href="https://t.me/SILVER_KING" target="blank"><img align="center" src="https://p7.hiclipart.com/preview/284/690/426/telegram-logo-computer-icons-telegram-logo.jpg" alt="SILVER_KING" height="30" width="40" /></a></p>
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CUSTOMFAIL&hide_progress=true&theme=dark" alt=CUSTOMFAIL />
