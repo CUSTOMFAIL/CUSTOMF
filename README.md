@@ -5,13 +5,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CUSTOMFAIL&theme=dark_lover" alt="CUSTOMFAIL" /></a> </p>
 
 - 🔭 I’m currently working on **Telegram bots**
-- 🌱 I’m currently learning **Java, SQL**
+- 🌱 I’m currently learning **Python, Java, SQL**
 
 - 📫 How to reach me **vaibhavshresth13@gmail.com**
 - ⚡ Fun fact **I got a dark humor**
 
 <div> <a href="https://github.com/CUSTOMFAIL" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/vaibhavshresth13" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://t.me/SILVER_KING" target="_blank"><img src="https://img.shields.io/badge/Telegram-8A2BE2?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 <a href = "mailto:vaibhavshresth13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
